@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap');
+
+*{
+	font-family: 'Font pricipal', serif;
+}
+
+#logo_marca{
+	max-height: 100%;
+    height: 18%;
+}
+
+img, svg {
+    vertical-align: middle;
+    object-fit: contain;
+}
+
+#login{
+	margin-right: 10px;
+}
+
+#logonavbar{
+	margin-left: 10px;
+}
+
+#quem_somos{
+	text-align: center;
+    font-style: italic;
+    margin-top: 10%;
+}
+
+h3{
+	font-size: 45px;
+	color: #0b0d38;
+	font-family:'Font pricipal';
+}
+
+#text_on{
+	color: #0b0d38;
+	font-family: 'Font pricipal';
+	height: 7%;
+	font-style: italic;
+	font-size: 23px;
+	margin: 21px auto;
+}
+
+#linguagens{
+	font-size: 45px;
+	color: #0b0d38;
+	font-family: 'Font pricipal';
+	text-align: center;
+	margin: auto auto 20px;
+}
+
+.linguagens_cursos{
+	color: #0b0d38;
+	font-family: 'Font pricipal';
+	text-align: center;
+}
+
+#caracteristicas{
+	font-size: 50px;
+    color: #0b0d38;
+    font-family: 'Font pricipal';
+    text-align: center;
+    margin: 6% auto 4%;
+}
+
+.titulo_cursos{
+	color: #0b0d38;
+    font-family: 'Font pricipal';
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#fale_conosco{
+	font-size: 50px;
+    color: #0b0d38;
+    font-family: 'Font pricipal';
+    text-align: center;
+    margin: 5% auto 0;
+}
+
+#fale_conosco2{
+	color: #0b0d38;
+    font-family: 'Font pricipal';
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto 3%;
+}
+
+#form{
+	margin-bottom: 2%;
+}
+
+#rodape{
+	font-family: 'Font principal';
+    font-style: italic;
+    padding: 0 25px;
+}
+
+#botao_enviar{
+	margin-bottom: 15%;
+}
+
+#contatos{
+	text-align: left;
+}
+
+#logorodape{
+	float: right;
+}
+
+.unico{
+	margin-top: 10%;
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap');
+
+*{
+	font-family: 'Font pricipal', serif;
+}
+
+#Painel{
+	border: 4px double #000;
+    border-radius: 6px;
+    width: auto;
+    height: auto;
+    padding: 1% 2% 4%;
+}
+
+.dados_us{
+	font-style: italic;
+    font-family: 'Font principal';
+    margin-bottom: 2%;
+    font-size: 20px;
+}
+
+h2{
+	text-align: center;
+	font-style: italic;
+}
+
+h3{
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+}
+
+#aulas{
+	border: 4px double #000;
+    border-radius: 6px;
+    width: auto;
+    height: auto;
+    padding: 1% 3% 3% 3%;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.order-first {
+    order: -1!important;
+    margin-top: 30px;
+}
+
+.col {
+    flex: 1 0 0%;
+    margin-top: 30px;
+}
+
+.rounded {
+    border-radius: .25rem!important;
+    object-fit: cover;
+
+}
