@@ -84,6 +84,10 @@
                 <div class="d-grid gap-2">
                   <button class="btn btn-outline-primary me-2" type="submit">Cadastrar</button>
                 </div>
+              <br>
+                <div class="d-grid gap-2">
+                  <button class="btn btn-outline-primary me-2" type="reset">Limpar</button>
+                </div>
             </form>
             <br>
             <div class="d-grid gap-2">
